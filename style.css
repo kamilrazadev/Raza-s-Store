@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+.logo{
+    height: 3rem;
+    border: 2px solid rgb(248, 26, 92);
+    border-radius: 50%;
+}
+.navbar-brand{
+    font-size: 2rem;
+    margin-left: 5px;
+    font-family: 'Lobster', cursive;
+}
+.nav-link{
+    margin-right: 10px;
+    margin-left: 10px;
+    color: black;
+    text-transform: uppercase;
+    font-family: 'Rubik', sans-serif;
+}
+.nav-link:hover{
+    color: rgb(248, 26, 92);
+}
+.search{
+    height: 40px;
+    width: 80%;
+    border: 2px solid rgb(248, 26, 92);
+    border-radius: 60px;
+    margin-right: -35px;
+    font-family: 'Rubik', sans-serif;
+}
+.btn0{
+    height: 40px;
+    width: 40%;
+    border: none;
+    border-radius: 60px;
+    background-color: rgb(248, 26, 92);
+    color: white;
+    font-weight: 700;
+}
